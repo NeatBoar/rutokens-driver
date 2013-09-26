@@ -1,1 +1,3 @@
-reconf
+#!/bin/sh
+
+sh reconf
